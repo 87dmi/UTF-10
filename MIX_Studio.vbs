@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "python mix_v8.py", 0, True
